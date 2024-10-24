@@ -54,7 +54,7 @@ By sharing this project, I aim to improve the automation of trading workflows an
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/trading-bot.git
+git clone https://github.com/Spyrkamm1/trading-bot.git
 cd trading-bot
 ```
 
